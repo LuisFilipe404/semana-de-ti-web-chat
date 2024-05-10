@@ -1,8 +1,16 @@
-# React + Vite
+# 🚀 Semana de TI - Web Chat
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descrição
+Projeto React Js de apresentação na Semana de TI e Engenharia da Unifavip no mini curso Construindo e Publicando Aplicações Web com React JS pelo palestrante Luis Filipe (me). Foi realizado a construção de um Web Chat em React JS que pode enviar mensagem, imagem e trocar de contato.
 
-Currently, two official plugins are available:
+## ⚙️ Instalação
+- **Comando:** `npm install`
+- Descrição: Utilize este comando para instalar as dependências necessárias do projeto.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Desenvolvimento
+- **Comando:** `npm dev`
+- Descrição: Utilize este comando para iniciar o servidor de desenvolvimento.
+
+## 🏗️ Build
+- **Comando:** `npm run build`
+- Descrição: Utilize este comando para compilar o projeto para produção.
